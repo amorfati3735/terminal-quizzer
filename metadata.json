@@ -1,0 +1,5 @@
+{
+  "name": "TermQuiz",
+  "description": "A lightweight, no-AI, fast webapp that turns raw text dumps of MCQs into an interactive quiz session styled like a hacker’s terminal with modern glassmorphism and minimal distractions.",
+  "requestFramePermissions": []
+}
