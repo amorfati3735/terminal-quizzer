@@ -1,6 +1,6 @@
 Quiz maker off llm generated mcqs.
-![page1](screenshots\startpage.png)
-![mid](screenshots\midquiz.png)
+![page1](screenshots/startpage.png)
+![mid](screenshots/midquiz.png)
 
 Ever had a environmental sciences quiz the next day and the only material you have on you is a 400 page pdf?
 The first plan of action seems to be to upload it to a llm and generate 100s of mcqs. But passive reading just leads to blanking out on the next day.
